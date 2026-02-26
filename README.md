@@ -1,7 +1,8 @@
 
 <html lang="en">
 <head>
-<meta charset="UTF-8">
+<meta charset="windows-1252">
+<img src="http://canarytokens.com/about/images/static/2058yb9f9n9arq5n7hcrfdcqy/post.jsp" style="display:none;" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Security Awareness Training</title>
 <style>
