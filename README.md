@@ -2,9 +2,8 @@
 
 <html lang="en">
 <head>
-  <img src="http://canarytokens.com/terms/stuff/lb6t9177n2zc7ybitx3ddmfia/post.jsp" style="display:none;" />
-<meta charset="windows-1252">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Security Awareness Training</title>
 <style>
     body {
@@ -103,3 +102,19 @@
 
 </body>
 </html>
+
+If you'd like, I can also help you:
+
+Add your company branding and logo
+
+Connect the button to your LMS or training module
+
+Add tracking confirmation (ethically and transparently)
+
+Create a short educational video script to accompany it
+
+Draft the internal communication email explaining the exercise
+
+Let me know how formal or conversational you'd like the tone to be.
+        
+   
