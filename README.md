@@ -89,8 +89,7 @@
         <li>Hover over links before clicking to inspect URLs.</li>
         <li>Report suspicious emails to IT immediately.</li>
     </ul>
-
-    
+ 
 
     <footer>
         Thank you for helping keep our organization secure.
